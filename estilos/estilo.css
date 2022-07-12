@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+*{
+    margin: 0PX;
+    padding: 0%;
+}
+
+::-webkit-scrollbar{
+    width: 0%;
+    height: 0%;
+}
+
+img{
+    width: 99vw;
+    padding-bottom: 0px;
+}
+
+a{
+    display: block;
+    font-weight: 900;
+    text-align: center;
+    font-size: xx-large;
+    background-color: darkcyan;
+    text-decoration: none;
+
+}
